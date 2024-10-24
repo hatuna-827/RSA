@@ -1,0 +1,1 @@
+python ned.py <pqe.txt
