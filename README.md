@@ -1,5 +1,11 @@
 # RSA
 
+## 使い方
+
+create_ned.shを実行した後、
+
+RSA.shを実行してください。
+
 ## create_ned.sh
 
 ned.pyを実行します。
